@@ -2,8 +2,8 @@
 
 ==== There are four steps to browse DDI: ====
 
-# Go to OwlSight website http://pellet.owldl.com/ontology-browser/ and click the big green 'Launch OwlSight' button.[http://ddiontology.co.cc/wiki/index.php?title=File:Ldi_browser_step1.jpg]
-# After clicking, a new window will pop up like the figure below. Click the 'File' on the menu bar and select 'Load Ontology...'.[[Image:Ldi browser step2.jpg|center|700px|border]]
-# In the pop up dialogue box, input DDI URI 'http://users.aber.ac.uk/ddq/ddi.owl ' into the 'Ontology URI' textfield. Uncheck the box before 'Use Cached Copy (if possible)'. Then click 'Browse' button.[[Image:ddi browser step3.jpg|center|700px|border]]
-# Now you can browse DDI freely. [[Image:ddi browser step4.jpg|center|700px|border]]
+# Go to OwlSight website http://pellet.owldl.com/ontology-browser/ and click the big green 'Launch OwlSight' button.[http://ddiontology.co.cc/wiki/images/8/8b/Ldi_browser_step1.jpg]
+# After clicking, a new window will pop up like the figure below. Click the 'File' on the menu bar and select 'Load Ontology...'.[http://ddiontology.co.cc/wiki/images/2/27/Ldi_browser_step2.jpg]
+# In the pop up dialogue box, input DDI URI 'http://users.aber.ac.uk/ddq/ddi.owl ' into the 'Ontology URI' textfield. Uncheck the box before 'Use Cached Copy (if possible)'. Then click 'Browse' button.[http://ddiontology.co.cc/wiki/images/a/a1/Ddi_browser_step3.jpg]]
+# Now you can browse DDI freely. [http://ddiontology.co.cc/wiki/images/f/fa/Ddi_browser_step4.jpg]
 # You can also download 'ddi.owl' and open it with any OWL editor, such as [http://protege.stanford.edu Protege].
