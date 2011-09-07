@@ -1,3 +1,4 @@
+#labels Featured
 ==DDI - An Ontology for Drug Discovery Investigations==
 
 The goal of DDI project is to develop an ontology for the description of drug discovery investigations. The Pharmaceutical industry is an information based industry. The aim of DDI is to add value to the information generated in the drug pipeline by making the information easier to reuse, integrate, curate, retrieve, and reason with. DDI aims to follow to the [http://www.obofoundry.org/ Open Biomedical Ontologies Foundry] (OBO) [http://www.obofoundry.org/crit.shtml principles], to use relations laid down in the [http://www.obofoundry.org/ro/ OBO Relation Ontology], and to be compliant with Ontology for biomedical investigations ([http://obi-ontology.org/page/Main_Page OBI]).
