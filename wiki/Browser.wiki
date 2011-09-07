@@ -1,3 +1,5 @@
+#sidebar TableOfContents
+
 ===This page shows how to browse the DDI ontology from a web browser, such IE,firefox,Safari,etc. We are currently working on an embeded browser which provide a easier and more friendly interface. It will come soon.===
 
 === There are four steps to browse DDI: ===
