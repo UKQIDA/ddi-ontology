@@ -7,3 +7,5 @@
  # In the pop up dialogue box, input DDI URI 'http://users.aber.ac.uk/ddq/ddi.owl ' into the 'Ontology URI' textfield. Uncheck the box before 'Use Cached Copy (if possible)'. Then click 'Browse' button.[http://ddiontology.co.cc/wiki/images/a/a1/Ddi_browser_step3.jpg]]
  # Now you can browse DDI freely. [http://ddiontology.co.cc/wiki/images/f/fa/Ddi_browser_step4.jpg]
  # You can also download 'ddi.owl' and open it with any OWL editor, such as [http://protege.stanford.edu Protege].
+
+Back to [http://code.google.com/p/ddi-ontology/ Home]
